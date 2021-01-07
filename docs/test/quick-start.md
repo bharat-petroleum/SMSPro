@@ -282,7 +282,7 @@ X-SMSPro-CorrelationId: 1ebc758c-605f-4e99-825a-8b5c5ae9656b
 
 That’s all! Happy Coding!
 
-[Link: Application Registration]:https://testmy.ebharatgas.com/SmsPortal/Applications/Create?utm_source=Docs&utm_medium=Prod
+[Link: Application Registration]:https://<TEST_SERVER>SmsPortal/Applications/Create?utm_source=Docs&utm_medium=Prod
 [Link: .NET Client SDK]:../client-sdk
 [Link: Code Samples]:../code-samples
 
